@@ -7,7 +7,7 @@ This tutorial consists of three parts that follow the typical workflow of develo
 
 * In part 1, we will define the algorithm we'll be working on and draw a circuit diagram for it using [Circuit Designer](https://circuits.psiquantum.com/).
 * In part 2, we will implement the algorithm and test it using Workbench.
-* Finally, in part 3, we will analyze the performance of our program using Resource Analyzer.
+* Finally, in part 3, we will analyze the performance of our program using resource estimation.
 
 ## Quantum state preparation algorithm
 
